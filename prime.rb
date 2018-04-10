@@ -9,4 +9,5 @@ def prime?(number)
     end
     i+= 1
     return true
+  end
 end
