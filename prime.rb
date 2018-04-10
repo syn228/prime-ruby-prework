@@ -1,4 +1,4 @@
 def prime?(number)
   a = 2
-  if 
+  if number <= 0 
 end
