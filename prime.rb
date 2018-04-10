@@ -5,5 +5,5 @@ def prime?(number)
   elsif number == 2
     return false
   else
-    while i < number/2
+    while i <= number/2
 end
