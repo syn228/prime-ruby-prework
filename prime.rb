@@ -4,5 +4,5 @@ def prime?(number)
     return false
   else
     while i <= number/2
-    
+    if number % i
 end
